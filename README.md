@@ -6,6 +6,9 @@
 ## Main Skills Applied
 - The main skills applied for this project was JavaScript.
 
+## Live Link
+- https://calvin-kim13.github.io/randomPasswordGenerator/
+
 ## Screenshot of initial screen
 ![Alt text](/Assets/images/initial-image.png "Optional Title")
 
