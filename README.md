@@ -1,19 +1,49 @@
-# Password Generator
+# RANDOM PASSWORD GENERATOR
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Goal of the project
-- The main goal of this project was to use what we learned with JavaScript and generate randomized passwords. I had to give the user an option a choice between adding certain characters into their password and I also had to give the users a choice to select the length of their password. More specifically, the users had a choice to add lowercase, uppercase, numbers, and special characters into their password unless they chose not to include it. After receiving the input, I had to randomize the wanted characters and create a password that matches the chosen length as well.
+## Description
 
-## Main Skills Applied
-- The main skills applied for this project was JavaScript.
+This project is a random password generating project that uses the users inputs to create a special and randomly generated password. The user selects specific characters that they want in their password and based off that data, it will randomly generate a password with the characters that the user selected.
 
-## Live Link
-- https://calvin-kim13.github.io/randomPasswordGenerator/
+## Table of Contents
 
-## Screenshot of initial screen
-![Alt text](/Assets/images/initial-image.png "Optional Title")
+Use these links to navigate through this README.
 
-## Screenshot of updated screen
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+To install this application, open `terminal` and clone in a new directory.
+ 
+    git clone https://github.com/calvin-kim13/randomPasswordGenerator.git
+
+Or, simply fork the repository.
+
+## Usage
+
+Once the application is cloned or forked, open the folder with Visual Studio Code, then apply changes to the code.
+
+### Screen shot of an example:
+![Alt text](/Assets/images/initial-image.png?raw=true "Optional Title")
 ![Alt text](/Assets/images/password-generated-image.png "Optional Title")
 
+## LIVE
+| DEPLOYMENT | URL | STATUS |
+| ---------- | --- | ------ |
+| Repository  | [GitHub Repo](https://github.com/calvin-kim13/randomPasswordGenerator) |  ACTIVE 🟢   |
+| Published Page | [Password Generator](https://calvin-kim13.github.io/randomPasswordGenerator/) | ACTIVE 🟢  |
 
+## Credits
 
+- N/A
+
+## License
+
+This application is covered under MIT License    
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+©2022 Calvin Kim
